@@ -1,4 +1,4 @@
-const about = () => {
+const About = () => {
     return (
         <div className ='text-center space-y-3'>
             <p className ='text-2xl font-semibold'>About me</p>
@@ -7,4 +7,4 @@ const about = () => {
     )
 }
 
-export default about
+export default About
